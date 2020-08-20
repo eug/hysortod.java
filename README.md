@@ -2,7 +2,8 @@
 <p align="center">
     <img width="150" src="hysortod-logo.svg"/>
 </p>
-Outlier Detection with Sorted Hypercubes.
+Outlier Detection with Sorted Hypercubes. Python version is available in <a href="https://github.com/eug/hysortod.py">hysortod.py</a>.
+
 
 ### Build
 
